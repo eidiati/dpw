@@ -1,0 +1,30 @@
+p {
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+
+.p1 p{
+    background-color:aquamarine;
+    font-style: normal;
+    text-align: center;
+    text-decoration-line: underline;
+    /*text-decoration-color: blue;*/
+    text-decoration: underline blue;
+    text-indent: 10px;
+    /*letter-spacing: 1cm;*/
+    word-spacing: 1cm;
+}
+
+.header{
+    min-height: 10cm;
+    width: auto;
+    background-image: url(image/Screenshot_2.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
